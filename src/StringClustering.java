@@ -16,7 +16,6 @@ public class StringClustering {
 			}
 			System.out.println();	
 		}
-		System.out.println(sortString("abaac"));
 	}
 	public ArrayList<ArrayList<String>> cluster(ArrayList<String> a) {
 		ArrayList<ArrayList<String>> result = new ArrayList<>();
